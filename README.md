@@ -20,4 +20,4 @@
 #
 #
 #
-# Download File https://www.mediafire.com/file/l34tpw860h4atby/Zombie-CPVP-Datapack.zip/file
+# Download File https://legacy.curseforge.com/minecraft/data-packs/zombie-cpvp-datapack
