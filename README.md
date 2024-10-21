@@ -17,3 +17,7 @@
 # 2. For Mac do command + spacebar then ~/library/application support/minecraft versions > (your version) > saves > go to your world > datapack and put "training_zombie_datapack" in the datapack folder
 #
 # 3. For Linux Navigate to ~/.minecraft/versions/[your version]/saves/[your world]/datapacks and place the training_zombie_datapack folder in the datapacks folder.
+#
+#
+#
+# Download File https://www.mediafire.com/file/l34tpw860h4atby/Zombie-CPVP-Datapack.zip/file
