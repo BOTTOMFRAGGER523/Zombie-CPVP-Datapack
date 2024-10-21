@@ -1,0 +1,1 @@
+summon minecraft:zombie ~ ~ ~ {CustomName:"\"Training Zombie\"",ArmorItems:[{id:"minecraft:netherite_boots",Count:1b},{id:"minecraft:netherite_leggings",Count:1b},{id:"minecraft:netherite_chestplate",Count:1b},{id:"minecraft:netherite_helmet",Count:1b}],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f]}
