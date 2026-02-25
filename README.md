@@ -14,4 +14,4 @@
 #
 - 2. For Mac, press command + spacebar then ~/library/application support/minecraft versions > (your version) > saves > go to your world > datapack and put "training_zombie_datapack" in the datapack folder
 #
-# 3. For Linux Navigate to ~/.minecraft/versions/[your version]/saves/[your world]/datapacks and place the training_zombie_datapack folder in the datapacks folder.
+- 3. For Linux Navigate to ~/.minecraft/versions/[your version]/saves/[your world]/datapacks and place the training_zombie_datapack folder in the datapacks folder.
